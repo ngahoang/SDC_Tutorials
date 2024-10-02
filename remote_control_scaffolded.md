@@ -1,4 +1,4 @@
-# Remote Control: Remote Code - 
+# Remote Control: Remote Code 
 
 
 ## Step 1 - Set Up
