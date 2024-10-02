@@ -1,5 +1,5 @@
 {
-    "name": "change_mode_scaffolded",
+    "name": "remote_control_scaffolded",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -12,7 +12,8 @@
         "README.md",
         "line_follow.md",
         "object_avoidance.md",
-        "change_mode_scaffolded.md"
+        "change_mode_scaffolded.md",
+        "remote_control_scaffolded.md"
     ],
     "testFiles": [
         "test.ts"
