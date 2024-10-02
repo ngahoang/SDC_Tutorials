@@ -3,7 +3,7 @@
 
 ## Use as Extension
 
-*[Follow the Line Tutorial](/line_follow)
+* [Follow the Line Tutorial](https://makecode.microbit.org/#tutorial:github:ngahoang/sdc_tutorials/line_follow)
 
 
 ## Edit this project
