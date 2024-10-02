@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "object_avoidance",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "line_follow.md"
+        "line_follow.md",
+        "object_avoidance.md"
     ],
     "testFiles": [
         "test.ts"
