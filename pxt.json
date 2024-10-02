@@ -1,5 +1,5 @@
 {
-    "name": "object_avoidance",
+    "name": "change_mode_scaffolded",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "line_follow.md",
-        "object_avoidance.md"
+        "object_avoidance.md",
+        "change_mode_scaffolded.md"
     ],
     "testFiles": [
         "test.ts"
