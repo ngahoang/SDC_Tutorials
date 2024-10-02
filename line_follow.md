@@ -3,7 +3,7 @@
 
 ## Step 1 - Set up
 
-
+dfdffd
 First, make sure to install the BitCar extension. Copy and paste this link
 (https://github.com/TinkerGen/pxt-BitCar) into the extensions tab on the side,
 and you'll be able to utilize features specific to the BitCars.
